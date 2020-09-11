@@ -8,6 +8,7 @@
 in tasks where the network needs to see two input sequences at a time (e.g. french and english)
 and then decide whether the sequences belong to certain classes. (e.g. if appropriate translation or not).
 
+Written by Niloy Purkait for GSoC
 """
 
 import tensorflow as tf
