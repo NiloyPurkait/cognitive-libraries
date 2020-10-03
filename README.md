@@ -1,6 +1,6 @@
-# upwork
+# Software Library 
 
-Codebase for Projects
+Codebase for Projects and Trainings
 
 Folders to come:
 
@@ -8,3 +8,5 @@ Folders to come:
 - Natural Language Processing
 - Data Visualization
 - Data Preprocessing Scripts
+- Sorting Algorithms
+- ML On web (tensorflow.js)
